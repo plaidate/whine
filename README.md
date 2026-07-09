@@ -1,5 +1,7 @@
 # Blood and Whine
 
+> Part of **[plAIdate](https://plaidate.github.io)** — AI-built 1-bit games, ports, and engines for the Playdate.
+
 A 1-bit Playdate game about a mosquito trying to continue her bloodline.
 You drink **nectar to survive** and **blood to breed** — and every host can
 kill you. Play the whole mosquito lifecycle across five stages, tune your
