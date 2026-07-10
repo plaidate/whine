@@ -1,6 +1,7 @@
 name=Blood and Whine
-author=sdwfrost
+author=Simon Frost
 description=A mosquito's bloodline. Drink nectar to survive and blood to breed, tune your wingbeat to a mate, and lay your eggs in rain-puddles before they dry - across the whole mosquito lifecycle.
 bundleID=com.sdwfrost.whine
 version=0.1
-buildNumber=1
+buildNumber=2
+imagePath=launcher
